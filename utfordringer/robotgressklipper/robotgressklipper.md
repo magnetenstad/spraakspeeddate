@@ -38,7 +38,7 @@ forwards 1
 ```
 Denne loggen vil ta roboten til `(-4,-6)`
 
-Hva er posisjonen til roboten når etter `logg.txt` er ferdig?
+Hva er posisjonen til roboten når etter [`log.txt`](log.txt) er ferdig?
 
 <details>
     <summary>Svar</summary>
