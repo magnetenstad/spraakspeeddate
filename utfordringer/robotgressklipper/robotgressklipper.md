@@ -13,6 +13,8 @@ I denne mappen ligger det en logg over bevegelsene til roboten. Hver linje inneh
 
 Loggen starter fra da roboten sist var på ladestasjonen, posisjon `(0,0)`. Retningen den ser mot da er mot positiv y. Når den snur vil den alltid snu 90 grader.
 
+![Rutenett](rutenett.jpg)
+
 Eksepler på logg:
 ```
 forwards 10
