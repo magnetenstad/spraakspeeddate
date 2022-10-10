@@ -1,0 +1,14 @@
+# Kotlin!
+
+Kotlin må først kompileres og så runnes med java.
+
+```
+
+kotlinc Hello.kt -include-runtime -d out.jar
+
+```
+
+```
+java -jar out.jar
+
+```
