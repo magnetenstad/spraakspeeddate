@@ -4,7 +4,7 @@ Kotlin må først kompileres og så runnes med java.
 
 ```
 
-kotlinc Hello.kt -include-runtime -d out.jar
+kotlinc Hello.kt -d out.jar
 
 ```
 
