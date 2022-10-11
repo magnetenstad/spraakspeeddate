@@ -1,5 +1,7 @@
 # Språkspeeddate
 
+- [Hvilken dag?](utfordringer/hvilken_dag/hvilken_dag.md)
+- [Romertall](utfordringer/romertall/romertall.md)
 - [Robotgressklipper på rømmen](utfordringer/robotgressklipper/robotgressklipper.md)
 - [Pascals trekant](utfordringer/pascaltrekant/pascals-trekant.md)
 - [Romertall](utfordringer/romertall/romertall.md)
